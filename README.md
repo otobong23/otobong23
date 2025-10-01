@@ -1,6 +1,7 @@
 # Hi, I'm Miracle 👋
 
 💻 Fullstack Developer | ⚡ Blockchain Enthusiast | 📊 Trader & Builder
+
 Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passionate about building scalable backend systems, financial platforms, and AI-powered trading solutions.
 
 - 🌱 Currently working with **NestJS, Next.js, and Blockchain (Solidity/ethers.js)**
