@@ -31,6 +31,13 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 
 
+**App Development:**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)  
+![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=fff)  
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff)  
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=fff)
+
+
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
