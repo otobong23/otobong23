@@ -84,6 +84,12 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
   </table>
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otobong23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ff6b6b&area=true&area_color=00ff4120" alt="Activity Graph" width="95%" />
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ║  CONTRIBUTION SNAKE — ANIMATED                                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
