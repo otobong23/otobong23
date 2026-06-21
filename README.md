@@ -60,3 +60,16 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  CONTRIBUTION SNAKE — ANIMATED                                                ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<h2 align="center">🐍 <code>./contribution_snake.sh</code></h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otobong23/otobong23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otobong23/otobong23/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/otobong23/otobong23/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
