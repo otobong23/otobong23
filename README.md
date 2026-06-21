@@ -103,3 +103,8 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/otobong23/otobong23/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED WAVY HEADER                                                        ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:601ef9,100:601ef9&height=180&section=header&text=otobong23&fontSize=50&fontColor=A288E3&animation=twinkling&fontAlignY=35&desc=Miracle%20Boniface%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=A288E3" width="100%" />
