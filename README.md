@@ -5,7 +5,8 @@
 
 # Hi, I'm Miracle 👋
 
-💻 Fullstack Developer | ⚡ Blockchain Enthusiast | 📊 Trader & Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Python+Developer;Django+Developer;AI+Engineer;Blockchain+Developer;Quant+Trader)](https://git.io/typing-svg)
+<!-- 💻 Fullstack Developer | ⚡ Blockchain Enthusiast | 📊 Trader & Builder -->
 
 Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passionate about building scalable backend systems, financial platforms, and AI-powered trading solutions.
 
