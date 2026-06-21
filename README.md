@@ -62,6 +62,28 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  GITHUB STATS — DUAL PANEL                                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<h2 align="center">📊 <code>git log --stat --author="otobong23"</code></h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=otobong23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=otobong23&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=00ff41&sideNums=c9d1d9&border_radius=10" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otobong23&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages" />
+        <br><br>
+        <img src="https://github-profile-trophy.vercel.app/?username=otobong23&theme=matrix&no-frame=true&margin-w=10&margin-h=10&column=3" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ║  CONTRIBUTION SNAKE — ANIMATED                                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
