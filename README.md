@@ -1,3 +1,8 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ║  ANIMATED WAVY HEADER                                                        ║ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:601ef9,100:601ef9&height=180&section=header&text=otobong23&fontSize=50&fontColor=6a5acd&animation=twinkling&fontAlignY=35&desc=Miracle%20Boniface%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=6a5acd" width="100%" />
+
 # Hi, I'm Miracle 👋
 
 💻 Fullstack Developer | ⚡ Blockchain Enthusiast | 📊 Trader & Builder
