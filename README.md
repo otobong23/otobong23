@@ -48,6 +48,8 @@ Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passiona
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 
 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
